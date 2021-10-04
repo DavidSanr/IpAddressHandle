@@ -4,7 +4,7 @@
 
 
 
-1. Create a custom sorting algorithm optimizer for big amount of data.
+1 - Create a custom sorting algorithm optimizer for big amount of data.
 
 2. RequestHandle Method has an O(1)
    TOP100 method, has O(N LOG N ) in the worst case, an avg of O(n log n).
